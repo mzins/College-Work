@@ -1,0 +1,17 @@
+﻿Build started 2/22/2016 11:44:21 PM.
+     1>Project "M:\Personal Folder - Student\mrzinser\Artificial Intelligence\Uniform Cost A Star\Uniform Cost A Star\Uniform Cost A Star.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Uniform A Star Source.cpp"
+         Uniform A Star Source.cpp
+     1>m:\personal folder - student\mrzinser\artificial intelligence\uniform cost a star\uniform cost a star\uniform a star source.cpp(200): warning C4018: '>=' : signed/unsigned mismatch
+     1>m:\personal folder - student\mrzinser\artificial intelligence\uniform cost a star\uniform cost a star\uniform a star source.cpp(234): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>m:\personal folder - student\mrzinser\artificial intelligence\uniform cost a star\uniform cost a star\uniform a star source.cpp(183): warning C4715: 'getint' : not all control paths return a value
+     1>m:\personal folder - student\mrzinser\artificial intelligence\uniform cost a star\uniform cost a star\uniform a star source.cpp(193): warning C4715: 'getchar' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"M:\Personal Folder - Student\mrzinser\Artificial Intelligence\Uniform Cost A Star\Debug\Uniform Cost A Star.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"M:\Personal Folder - Student\mrzinser\Artificial Intelligence\Uniform Cost A Star\Debug\Uniform Cost A Star.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"M:\Personal Folder - Student\mrzinser\Artificial Intelligence\Uniform Cost A Star\Debug\Uniform Cost A Star.lib" /MACHINE:X86 "Debug\Uniform A Star Source.obj"
+         Uniform Cost A Star.vcxproj -> M:\Personal Folder - Student\mrzinser\Artificial Intelligence\Uniform Cost A Star\Debug\Uniform Cost A Star.exe
+     1>Done Building Project "M:\Personal Folder - Student\mrzinser\Artificial Intelligence\Uniform Cost A Star\Uniform Cost A Star\Uniform Cost A Star.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.88
